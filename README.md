@@ -1,7 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Vamsi krishna...</h1>
-<h2 align="center">A passionate MERN stack developer from India</h2> 
+
+ I'm a React developer currently interning at [Company Name]. I'm passionate about building high-quality web applications and learning new technologies to improve my skills.
 <h4>Hello... all <img alt="wishing" width="40" src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif"/> this is my GitHub account<h4/> 
 <img  src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Mernstack+developer;Frontend+developer/Sanju"/> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjudev1&label=Profile%20views&color=0e75b6&style=flat" alt="sanjudev1" />
