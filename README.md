@@ -2,20 +2,20 @@
 
 <h1 align="center">Hey there, I'm Vamsi Krishna Ummadi! 👋</h1>
 
-I'm a passionate Full Stack Developer with a knack for crafting high-quality web applications. My journey into the tech world began when I undertook an intensive MERN stack web development course at NXTWAVE, spanning 8 months from April 2022 to November 2022. Building on this foundation, I secured a prestigious position at iTalent Digital, where I've been honing my skills ever since.
+I'm a passionate Full Stack Developer with two years of experience in frontend development and proficiency in Data Structures and Algorithms (DSA) and system design. I specialize in crafting high-quality web applications using modern technologies, always striving to learn, innovate, and push boundaries.
 
-- 🔭 Currently, I'm thriving as a Software Developer at **iTalent Digital**, constantly pushing boundaries and embracing new challenges.
-- 💼 With 6 months of invaluable internship experience as a React Developer at iTalent Digital, I've gained practical insights and hands-on expertise.
-- 🌱 I'm passionate about learning and implementing the latest trends and technologies in web development to create innovative solutions.
-- 💬 Ask me about anything related to **MERN stack**, and I'll be delighted to share my knowledge and experiences.
-- 📫 Reach out to me via email at **krishnavamsi9432@gmail.com**. Let's connect and explore exciting opportunities together!
+My journey into the tech world began with an intensive MERN stack web development course at NXTWAVE, spanning 8 months (April 2022 to November 2022). This solid foundation propelled me to secure a position at iTalent Digital, where I've been honing my skills and delivering impactful solutions ever since.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://www.linkedin.com/in/vamsikrishnaummadi/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vamsi Krishna Ummadi" height="30" width="40" />
-   </a>
-</p>
+Highlights
+🔭 Currently thriving as a Software Developer at iTalent Digital, building robust and scalable web applications.
+💼 Gained 6 months of internship experience as a React Developer at iTalent Digital, which gave me invaluable hands-on expertise and practical insights.
+🌱 Dedicated to learning and implementing the latest trends and technologies in web development, ensuring innovative and cutting-edge solutions.
+💡 Proficient in developing user-friendly and dynamic web applications with a deep understanding of the MERN stack and frontend frameworks.
+💬 Passionate about sharing knowledge on MERN stack, DSA, and system design.
+
+
+Let's Connect
+📧 Reach out to me via email at krishnavamsi9432@gmail.com – I'm always open to exploring exciting opportunities and collaborations!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
